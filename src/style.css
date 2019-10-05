@@ -1,0 +1,73 @@
+   
+    
+h1  {  color: orange;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 2.2em;
+font-family:Papyrus, fantasy
+}
+
+h2 {    color: Red;
+  font-family:Papyrus, fantasy
+   }
+
+h3,h4 {
+          color: salmon;
+  font-family:Papyrus, fantasy
+}
+li  {
+          color: maroon;
+  
+    font-weight: bold;
+ font-family: Big Caslon, Book Antiqua, Palatino Linotype, Georgia, serif 
+}
+ th {
+          color: orange ;
+   
+   font-size: 20.1px;
+   font-family:Papyrus, fantasy; } 
+   
+tr { text-align: center;
+    
+}  
+#Khalil-Gibran {
+            background-color:ivory ;
+ 
+font-family:Big Caslon, Book Antiqua, Palatino Linotype, serif;
+line-height: 1.5em; 
+}
+#official-info {
+            background: goldenrod;
+            width: 90%;
+            height: 180px;
+            overflow: auto;
+   margin: 30px 30px 30px 30px;
+            border: 2px dotted indianred;
+            padding: 6px;
+}
+
+#K-Gibran {
+            
+         margin-right: 20px;
+         margin-bottom: 10px;
+         border: 12px ridge indianred	;
+ float: left
+}
+#poetry-gibran { 
+                background-color: gold; }
+.poems {
+        background-color: yellow;}
+.border {
+                border: 3px solid orange;
+                background-color: Gold;
+               
+            }
+
+ body {
+          background-color: beige; 
+   
+    
+   font-family: Big Caslon, Book Antiqua, Palatino Linotype, Georgia, serif
+  
+       }
+        </style>
